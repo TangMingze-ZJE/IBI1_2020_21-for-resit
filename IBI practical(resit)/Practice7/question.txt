@@ -1,0 +1,5 @@
+How have new cases and total cases developed over time in Spain?
+
+solution line: 49-61
+
+In Figure_1, I can find that in early stages, there was no man being infected with COVID-19. With time going by, the total number of infected people had exponential growth, and the new cases was increase first and decrease then. 
